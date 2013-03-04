@@ -17,5 +17,5 @@ This repo is dedicated to childhood pictures of people who work at Control Group
 * baby issues
 * hair issues
 * style issues
-* teenage issue
+* teenage issues
 
